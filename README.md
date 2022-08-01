@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**vivimila/vivimila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Now I am studying to change my profession and lifestyle! And I hope that my technical education will help me.
 
-Here are some ideas to get you started:
+*You can see me here:*
+<div id="badges">
+  <a href="https://www.instagram.com/violamila/?hl=ru">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
+   </a>
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hm... I have never had pets, but 2 years ago I took a dog from a shelter! I love her!)
+
