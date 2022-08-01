@@ -5,7 +5,7 @@
 *You can see me here:*
 <div id="badges">
   <a href="https://www.instagram.com/violamila/?hl=ru">
-  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
    </a>
  </div>
 
